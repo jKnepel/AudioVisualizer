@@ -1,0 +1,64 @@
+24/10/2019
+-----------
+-added interface
+-added file selector
+-added play/plus/minus button
+
+26/10/2019
+-----------
+-added visualizer selector
+-added select animation
+-added "fft simpleline" visualizer
+
+31/10/2019
+-----------
+-added "fft simplecircle" visualizer
+-added "fft simplerect" visualizer
+
+02/11/2019
+-----------
+-added test version of "fft waterrings"
+-added "textbox" class
+-added color editor
+
+07/11/2019
+----------
+-added automatic playback end
+-upated FFT SimpleLine
+
+
+14/11/2019
+----------
+-cleaned up code
+-added wave color
+-changed processing.sound to ddf.minim
+-added minim.audioplayer
+
+16/11/2019
+-----------
+-cleaned up code
+-added pause/play on spacebar
+-fixed issue with pausing
+-added vis-effects
+	-added container
+	-added fft/osc division
+-added wavecolor (in better)
+-added oscillator for simple Line
+-added oscillator for simple Circle
+
+17/11/2019
+----------
+-added fast-forward/rewind option
+
+22/11/2019
+----------
+-added dark side of the moon Visualizer
+-added Equalizer Visualizer
+-added scaling slider
+-added Star class
+-updated random color with lerp
+
+02/11/2019
+----------
+-fixed repository
+-added starfield
